@@ -255,5 +255,3 @@ For questions or suggestions about this Library Management System implementation
 
 **Note**: This is a console-based application designed for learning Java programming concepts including OOP, collections, file I/O, and basic software architecture patterns.
 =======
-# Library_Management
->>>>>>> 472adfca3ffc16c6fffe5583b796aa1932ca8e18
