@@ -66,7 +66,7 @@ Library-Management-System/
 
 4. **Compile the Project**
    ```bash
-   javac -d . src/**/*.java
+   javac -d . LibraryManagementApp.java models/Book.java models/Member.java models/Transaction.java services/LibraryService.java ui/LibraryConsoleUI.java utils/FileUtils.java
    ```
 
 5. **Run the Application**
